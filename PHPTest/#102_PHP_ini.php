@@ -1,0 +1,7 @@
+<?php
+
+/*
+ * ini = initialize
+ */
+
+phpinfo();
